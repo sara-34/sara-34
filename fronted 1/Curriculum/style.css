@@ -1,0 +1,27 @@
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+ h1 {text-align: center;}
+header.background {
+    background-color: thistle;
+}
+img{
+   display: block; 
+   margin: auto;
+   width: 10%;
+   height: 10%;
+}
+h1 {background-color: thistle;
+    color: violet;
+}
+
+h3{background-color: thistle;
+    color: violet;
+}
+
+
+footer{text-align: center;}
+footer{background-color: thistle;
+    color: violet;
+}
