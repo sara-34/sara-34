@@ -1,0 +1,67 @@
+.cosas-de-arriba{
+    background-color: black;
+    color: white;
+}
+
+.logos{
+    background-color: orange;
+    color: white;
+}
+
+h1{
+    text-align:center;
+    }
+
+    .logos{
+        background-size: 10px;
+    }
+
+    
+
+    .imagen{background-image: url("../fronted 1/proyecto_petshop/imagenes/foto.png");
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    width: 1025px;
+    height: 409px;
+    }
+
+    .texto-encima{
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
+
+    .Contacto{
+        background-color: #2e1701ec;
+        color: white;
+    }
+
+   .Novedades {
+       background-color: orange;
+       color: white;
+
+   }
+
+   .Localidad {
+       background-color: #2e1701ec;
+       color: white;
+   }
+
+   .final{
+       background-color: black;
+       color: white;
+   }
+
+   .comederos{
+       background-color: orange;
+       color: white;
+       width: 141px;
+       height: 49px;
+    
+
+   }
+
+   .imagen{
+       text-align: center;
+   }
