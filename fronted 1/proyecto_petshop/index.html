@@ -5,17 +5,37 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <link rel="stylesheet" href="style.css">
+
+     <title>Petshop</title>
     </head>
     <body>
         <header>
         
             <div id="barra-superior" class="cosas-de-arriba">
                 <ul type="none">
-                    <li>Grades ofertas en comederos</li>
+                    <p>Grades ofertas en comederos</p>
                 
-                        <ul type="none">
-                            <li>Español</li>
-                            <li>$ARG</li>
+                        <ul class="none">
+                            <li>
+                                <form action="#">
+                                    <label for="idioma"></label>
+                                        <select name="idioma" id="idioma">
+                                            <option value="esp">Español</option>
+                                            <option value="ingles">Ingles</option>
+                                        </select>
+                                        </form>
+                            </li>
+                            <li> 
+                                <form action="#">
+                                <label for="precio">
+                                    <select name="precio" id="precio">
+                                        <option value="arg">ARG$</option>
+                                        <option value="dolar">US$</option>
+                                    </select>
+                                </label>
+                            </form>
+                            </li>
+                            </ul>
                         </ul>
                     </li>
                 </ul>
